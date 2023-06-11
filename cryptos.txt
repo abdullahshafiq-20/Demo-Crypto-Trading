@@ -1,0 +1,19 @@
+Bitcoin, BTC, 57730.00
+Ethereum, ETH, 2877.00
+Binance Coin, BNB, 475.00
+XRP, XRP, 1.60
+Dogecoin, DOGE, 0.23
+Cardano, ADA, 1.29
+Polkadot, DOT, 33.53
+Bitcoin Cash, BCH, 1016.00
+Litecoin, LTC, 263.00
+Chainlink, LINK, 42.16
+Theta Token, THETA, 10.23
+Stellar, XLM, 0.54
+VeChain, VET, 0.16
+EOS, EOS, 6.47
+TRON, TRX, 0.13
+Solana, SOL, 42.61
+Bitcoin SV, BSV, 282.00
+Neo, NEO, 91.04
+Tether, USDT, 1.00
